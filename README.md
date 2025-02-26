@@ -1,5 +1,4 @@
 ## Demo Stores
-Check out our demo stores to see how Capri can be customized for different types of businesses:
 
 * https://capri-theme-demo-shoes.myshopify.com
 * https://capri-theme-demo-fashion.myshopify.com
